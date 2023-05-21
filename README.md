@@ -1,13 +1,11 @@
-# Sample Hardhat Project
+# Source Code for Gary Token ($GARY)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+https://gary.cash
+https://www.twitter.com/iamgarygecko
+https://www.instagram.com/iamgarygecko
+https://www.youtube.com/garygecko
+https://www.soundcloud.com/garygecko
+https://www.tiktok.com/@garygecko
+https://t.me/garygecko
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+I'm you and you are Gary! I am the Gecko leading the Geckolution and just an all round cool guy!!!
